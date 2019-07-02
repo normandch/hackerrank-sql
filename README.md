@@ -32,3 +32,15 @@ Hacker 90411 got a score of 30 for challenge 71055 with a difficulty level of 2,
 Hacker 90411 got a score of 100 for challenge 66730 with a difficulty level of 6, so 90411 earned a full score for this challenge.
 
 Only hacker 90411 managed to earn a full score for more than one challenge, so we print the their hacker_id and name as space-separated values.
+
+Average population:
+
+Given the CITY and COUNTRY tables, query the names of all the continents (COUNTRY.Continent) and their respective average city populations (CITY.Population) rounded down to the nearest integer.
+
+Note: CITY.CountryCode and COUNTRY.Code are matching key columns.
+
+Input Format
+
+The CITY and COUNTRY tables are described as follows: CITY.jpg
+
+Country.jpg
